@@ -2,7 +2,8 @@
 
 ### I'm Maria, a full-stack Software Engineer
 
-### - 🔭 I’m currently working on a React/Rails project
+### - 🔭 I am currently working on a React/Rails project
+### - 🐍 Learning Python
 ### - 📝 I have a blog on Software Engineering with helpful tutorials: www.medium.com/@brasildu
 ### - 🔗 Connect with me on LinkedIn: www.linkedin.com/in/mariaeduardabrasil/
 ### - 📫 How to reach me: brasildu@gmail.com
